@@ -1,7 +1,7 @@
 # hiring-questions
 This is a set of questions we recently used for hiring inside an agile software engineering team.
 
-These questions are distilled from the community book **[Community TIPS for hiring great people](https://docs.google.com/document/d/1v2mPQcaCuEMzhYQi_0rgSPtZ30TzDxHtImAUqKo-FBw)** started by [Yves Hanoulle](http://www.hanoulle.be).
+These questions are distilled from the community book *[Community TIPS for hiring great people](https://docs.google.com/document/d/1v2mPQcaCuEMzhYQi_0rgSPtZ30TzDxHtImAUqKo-FBw)* started by [Yves Hanoulle](http://www.hanoulle.be).
 
 ## Questions to send upfront
  
