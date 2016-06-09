@@ -1,5 +1,5 @@
 # hiring-questions
-This is a set of questions we recently used for hiring inside an agile software engineering team.
+This is a set of questions we recently used for hiring full stack software engineers inside an agile team.
 
 These questions are distilled from the community book *[Community TIPS for hiring great people](https://docs.google.com/document/d/1v2mPQcaCuEMzhYQi_0rgSPtZ30TzDxHtImAUqKo-FBw)* started by [Yves Hanoulle](http://www.hanoulle.be).
 
@@ -12,9 +12,8 @@ These questions are distilled from the community book *[Community TIPS for hirin
 * Have you already worked in a remote team ? How was it like ? How did you communicate with fellow team members in other regions ? Was this an agile team ? How did you communicate about progression ? How did you do retrospectives ?
 * Tell us about a recent book, article or blog post you've read that affected your work ? What did you like about it ? What were the key take away ? <br/>
 Or send a list of books we think are recommended and ask which ones he has read. During the interview we can deep dive into the ideas of the book. If he hasn't read them, are there any of them that made him curious and interested to read and why ?
-* ?? What is better: manual or automated tests ?
+* What is better: manual or automated tests ?
 ** the answer should be it depends: manual exploratory tests are ok, manual regression tests not, these should be automated
-*
  
 ## Interview Questions
  
@@ -22,10 +21,12 @@ Presenting the team.
  
 ### Opening questions
  
-* How can we help ? (get into the candidate's expectations: about the interview, the team, the company)<p> You will be happy at the end of the interview if ... ? (check for the candidate's expectations and gives us the ability to continue with our own expectations, what are we looking for)
+* How can we help ? (get into the candidate's expectations: about the interview, the team, the company)
+  You will be happy at the end of the interview if ... ? (check for the candidate's expectations and gives us the ability to continue with our own expectations, what are we looking for)
 * Tell us something about yourself ?
 * Your CV is more than 2 pages long. What would be the 3 highlights you would like someone to take away from reading it ?
-* Tell me something about you've read recently that affected your work ?<p>If they don’t read anything, the follow up question is how does the candidate learn.
+* Tell me something about you've read recently that affected your work ?
+  If they don’t read anything, the follow up question is how does the candidate learn.
 * What have you learned recently ?
 * What attracted you to our company/team ?
 * Tell me about a project that went really bad. And what have you learned about it ?
@@ -35,7 +36,8 @@ Presenting the team.
 
 * Tell me about the time when you had an idea that was really great but other people in your team did not agree and did not implement it
 * Why should we hire you?<br> This is a very direct question. For some introverts it helps to bring them out and to allow them to be very clear about what they like about themselves. If you see it’s too direct, the next question might be a way to tone it down.
-* If we contact your colleagues, why would they recommend us to hire you? <p>This formulation aims to avoid some of the “prepared” answers.  It also helps getting more honest answers.
+* If we contact your colleagues, why would they recommend us to hire you? 
+  This formulation aims to avoid some of the “prepared” answers.  It also helps getting more honest answers.
 * What value would you add to the team ?
 * How would you interact with the team ? (this is important for roles who are not inside the team, or remote workers)
 * When do you feel appreciated in your work ?
@@ -83,8 +85,10 @@ The purpose of the questions is to find out how the candidate learns. In our fas
 * What is the last training you followed?
 * What is the best training you ever followed?
 * Have you ever spoken at a conference? What was the topic?
-* How do you keep yourself up-to-date? <p>some candidates think it’s the sole responsibility of the company, others think it’s their own responsibility to keep learning. Neither are wrong or better, yet it’s very important to see that this is inline with what the company culture is.
-* What is the last book you read? <p>the topic is on purpose very broad, it’s up to the candidate to talk about a technical or non technical book. There is no right or wrong choice, both give an interesting conversation that show a different part of the candidate.
+* How do you keep yourself up-to-date? 
+  some candidates think it’s the sole responsibility of the company, others think it’s their own responsibility to keep learning. Neither are wrong or better, yet it’s very important to see that this is inline with what the company culture is.
+* What is the last book you read? 
+  the topic is on purpose very broad, it’s up to the candidate to talk about a technical or non technical book. There is no right or wrong choice, both give an interesting conversation that show a different part of the candidate.
 * Who are some people in your field that you follow? Who are your role models?
  
 ### Technical Questions
@@ -117,15 +121,14 @@ When doing the interview with a team, it is important to agree upfront on a sign
 -- Mieke van Alphen, Community Tips for hiring great people
  
 ## Assessment
-? [https://coderpad.io/ CoderPad] to replace Skype, WebEx, ...
- 
-Should we limit to Java ? Should we also check the JavaScript knowledge ?
- 
+Use of [https://coderpad.io/ CoderPad] to replace Skype, WebEx, for live remote coding sessions.
+
+Exercises you can use to assess programming capabilities:
 * [http://osherove.com/tdd-kata-1/ Roy Osherove String Calculator kata]
 * Refactoring kata: no real references on the Internet except for the [http://blog.adrianbolboaca.ro/2014/04/legacy-coderetreat/ Legacy Code Retreat]
 * [http://codekata.com/ Dave Thomas kata's]
 * [http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata Uncle Bob's Bowling Game kata]
-* ?? [https://projecteuler.net/ Project Euler] aimed at mathematical programming problems
+* [https://projecteuler.net/ Project Euler] aimed at mathematical programming problems
  
 ## Closing the Interview
  
