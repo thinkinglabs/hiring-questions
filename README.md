@@ -79,7 +79,7 @@ The purpose of the questions is to find out how the candidate learns. In our fas
 
 * What have you learned recently and would like to share?
 
-  It's more open and tests also for their ability to explain a topic they are familiar with.
+  Better than the previous one. It's more open and tests also for their ability to explain a topic they are familiar with. This was [suggested](https://twitter.com/coderbyheart/status/1161200556205064192?s=20) by [Markus Tacker](https://twitter.com/coderbyheart).
  
 * What tools do you know / have you used?
 * What tools or techniques have you introduced in your previous roles?
